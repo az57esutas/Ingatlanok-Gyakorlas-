@@ -1,0 +1,9 @@
+﻿16473/7/C/11;14600000;gyumolcsos;6,2
+77463/A/9;6700000
+99120/5/B/17;19900000;Vércsorog, Kossuth u. 18;csaladi_haz;false
+34112/Z/2;5100000;Nekeresd. Piac út 2.;csaladi_haz;true
+71001/G/21;39900000;erdo;11,42
+22117/7/71;4600000;Görénypuszta, Szagos út 4/A.;csaladi_haz;true
+44521/A/5;8800000
+29911/1/D/2;11000000;erdo;6,3
+90077/3/B/8;23000000;Seregélyes, Fő u.10.;tarsas_haz;false
